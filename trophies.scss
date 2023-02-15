@@ -1,0 +1,21 @@
+h1{text-align: center;
+}
+
+$colors:(item : img1,
+julio:img2,
+caro:img3,
+cesar:img4,
+messi:img5, );
+
+
+@each $name,$color in $colors{
+.#{$name} {
+    background-image: url("img/#{$color}.jpg");
+    background-size: cover;
+    background-position: center;
+    border: 2px solid black;
+    height: 400px;
+    width: 440px;
+}
+
+}

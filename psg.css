@@ -1,0 +1,23 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+h1 {
+  color: rgb(215, 20, 20);
+  text-align: center;
+  font-size: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+body {
+  background-image: url(img/09b75491e5ae71f116e9.png);
+}
+
+main {
+  height: 100px;
+  width: 200px;
+  border: 4px solid black;
+}
+
+/*# sourceMappingURL=psg.css.map */

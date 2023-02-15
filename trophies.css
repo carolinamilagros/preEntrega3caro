@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+}
+
+.item {
+  background-image: url("img/img1.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 2px solid black;
+  height: 400px;
+  width: 440px;
+}
+
+.julio {
+  background-image: url("img/img2.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 2px solid black;
+  height: 400px;
+  width: 440px;
+}
+
+.caro {
+  background-image: url("img/img3.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 2px solid black;
+  height: 400px;
+  width: 440px;
+}
+
+.cesar {
+  background-image: url("img/img4.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 2px solid black;
+  height: 400px;
+  width: 440px;
+}
+
+.messi {
+  background-image: url("img/img5.jpg");
+  background-size: cover;
+  background-position: center;
+  border: 2px solid black;
+  height: 400px;
+  width: 440px;
+}
+
+/*# sourceMappingURL=trophies.css.map */
